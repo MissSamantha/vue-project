@@ -1,0 +1,17 @@
+.el-form-item {
+  height:35px;
+}
+.pull-right{
+float: right;
+}
+.pull-left{
+  float:left;
+}
+.clear-float{
+  clear: both;
+}
+.title{
+  color:white;
+  font-size: 14px;
+  font-family: "Microsoft YaHei";
+}
